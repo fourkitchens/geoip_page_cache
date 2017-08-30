@@ -1,0 +1,6 @@
+name = GeoIP Page Cache
+description = Custom Drupal page cache backend for Acquia's GeoIP service.
+core = 7.x
+package = Performance and scalability
+
+dependencies[] = memcache
